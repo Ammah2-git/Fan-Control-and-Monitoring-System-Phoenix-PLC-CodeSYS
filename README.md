@@ -30,7 +30,6 @@ This project implements a real-time **fan control and anomaly detection system**
 | Tachometer Output   | 2 pulses per revolution |
 | PWM Input           | TTL-level control via brown wire |
 
-📄 [Fan Datasheet](https://www.nmbtc.com/pdf/dcfans/09225VE-24L.pdf)
 
 ---
 
